@@ -1,0 +1,1727 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "-zax2ULlHa-OEmFldM6hFE0bMwU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "sxNKK2P79DHXvXSFGnajh9Qh8jA",
+      "id": "FgSdMsejAKI",
+      "snippet": {
+        "publishedAt": "2023-06-30T10:16:27Z",
+        "channelId": "UCI2T1_bAtgnKKzfhw3Qib9w",
+        "title": "[옥지의 퇴마록] EP.2 사라진 빵빵이",
+        "description": "기획/대본: 이주용, 장예빈\n애니메이션: 이주용, Hozzaa2, 허영현, 하현준, 김민석, 윤준식\n배경/3D: 추헌주",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FgSdMsejAKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FgSdMsejAKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FgSdMsejAKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FgSdMsejAKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FgSdMsejAKI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빵빵이의 일상",
+        "tags": ["빵빵이", "이주용", "병맛", "개그", "코미디", "애니메이션"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[옥지의 퇴마록] EP.2 사라진 빵빵이",
+          "description": "기획/대본: 이주용, 장예빈\n애니메이션: 이주용, Hozzaa2, 허영현, 하현준, 김민석, 윤준식\n배경/3D: 추헌주"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qf8k-7FscOuIm0oCHtIPH5Eh3K0",
+      "id": "Y8KeqoGtSNA",
+      "snippet": {
+        "publishedAt": "2023-07-02T12:00:23Z",
+        "channelId": "UCfpaSruWW3S4dibonKXENjA",
+        "title": "미국 3대 버거🔥 전날밤 11시부터 줄섰다는 파이브가이즈? 외국인 직원분들 다 놀라신 햄버거 먹방",
+        "description": "각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n\n비지니스 메일:gardenm1120@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8KeqoGtSNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8KeqoGtSNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8KeqoGtSNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y8KeqoGtSNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "tzuyang쯔양",
+        "tags": [
+          "real sound",
+          "리얼사운드",
+          "social eating",
+          "mukbang",
+          "eating show",
+          "먹방",
+          "맛집"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미국 3대 버거🔥 전날밤 11시부터 줄섰다는 파이브가이즈? 외국인 직원분들 다 놀라신 햄버거 먹방",
+          "description": "각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n\n비지니스 메일:gardenm1120@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XOmoAqXDMUms6uj9npnQTa6iSGA",
+      "id": "86tJYQ5KB00",
+      "snippet": {
+        "publishedAt": "2023-06-30T04:39:05Z",
+        "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+        "title": "화가 난 11살 딸이 아빠 직장 상사에게 전화 걸어 한 말 | 이슈픽",
+        "description": "화가 난 11살 딸이 아빠 직장 상사에게 전화 걸어 한 말 | 이슈픽\n \n#회사#야유회#아빠#아들#딸#직장상사#전무님#가족#김명준앵커#뉴스파이터#이슈픽\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/86tJYQ5KB00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/86tJYQ5KB00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/86tJYQ5KB00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/86tJYQ5KB00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "MBN News",
+        "tags": [
+          "회사",
+          "야유회",
+          "아빠",
+          "아들",
+          "딸",
+          "직장상사",
+          "전무님",
+          "가족",
+          "김명준앵커",
+          "뉴스파이터",
+          "이슈픽"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "화가 난 11살 딸이 아빠 직장 상사에게 전화 걸어 한 말 | 이슈픽",
+          "description": "화가 난 11살 딸이 아빠 직장 상사에게 전화 걸어 한 말 | 이슈픽\n \n#회사#야유회#아빠#아들#딸#직장상사#전무님#가족#김명준앵커#뉴스파이터#이슈픽\n \n☞MBN NEWS 구독하기 : https://www.youtube.com/channel/UCG9aFJTZ-lMCHAiO1KJsirg?sub_confirmation=1\n☞MPLAY 구독하기 : https://www.youtube.com/channel/UC84IlgY5HIzxKBZOt8XM5UA?sub_confirmation=1\n☞MBN Entertainment 구독하기 : https://www.youtube.com/channel/UCYyLIlOJyqkAFKlVjzX5img?sub_confirmation=1\n☞MBN 공식 홈페이지 : https://www.mbn.co.kr"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rLGtelRPW-AsIYiT9204GPHw_Cw",
+      "id": "lxARfubty_o",
+      "snippet": {
+        "publishedAt": "2023-07-02T00:58:43Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "[6회 선공개] 천하의 재벌 이준호, 임윤아에게 '천 원' 구걸하는 이유는?😂 | 〈킹더랜드〉 7/2(일) 밤 10시 30분 방송",
+        "description": "[6회 선공개] 천하의 재벌 구원(이준호), 천사랑(임윤아)에게 '천 원' 구걸하는 이유는?😂\n\nJTBC 토일드라마 〈킹더랜드〉\n7월 2일 일요일 밤 10시 30분 방송\n\n#킹더랜드 #JTBC토일드라마 #이준호 #임윤아\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/kingtheland\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lxARfubty_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lxARfubty_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lxARfubty_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lxARfubty_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lxARfubty_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "tags": [
+          "이준호",
+          "임윤아",
+          "킹더랜드",
+          "JTBC토일드라마",
+          "임윤아선물",
+          "이준호선물",
+          "선물",
+          "데이트",
+          "킹더랜드데이트",
+          "임윤아데이트",
+          "이준호데이트",
+          "임윤아이준호데이트",
+          "JTBC킹더랜드",
+          "킹더랜드미리보기",
+          "킹더랜드선공개",
+          "킹더랜드6회선공개",
+          "킹더랜드6회",
+          "JTBC드라마",
+          "토일드라마",
+          "JTBC주말드라마",
+          "주말드라마",
+          "이준호임윤아",
+          "이준호킹더랜드",
+          "임윤아킹더랜드",
+          "이준호드라마",
+          "임윤아드라마",
+          "킹더랜드공식영상"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[6회 선공개] 천하의 재벌 이준호, 임윤아에게 '천 원' 구걸하는 이유는?😂 | 〈킹더랜드〉 7/2(일) 밤 10시 30분 방송",
+          "description": "[6회 선공개] 천하의 재벌 구원(이준호), 천사랑(임윤아)에게 '천 원' 구걸하는 이유는?😂\n\nJTBC 토일드라마 〈킹더랜드〉\n7월 2일 일요일 밤 10시 30분 방송\n\n#킹더랜드 #JTBC토일드라마 #이준호 #임윤아\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/kingtheland\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5Sr6y9hQ5vl5VKfX9weBOZ_uvrI",
+      "id": "STW98zpUov8",
+      "snippet": {
+        "publishedAt": "2023-07-01T13:00:08Z",
+        "channelId": "UCru-NhkqWnxg7-b5Q579YfA",
+        "title": "[ENG/JPN] 샤이니 등판 이슈! 15년 만에 밝혀진 새로운 사실들😱  | 아이돌 인간극장",
+        "description": "#SHINee #HARD #아이돌인간극장\n\n샤이니의 데뷔 15주년 & 컴백 회의\n15년 만에 새로운 사실이 밝혀졌다(?)\n\n대본 없는 리얼(?) 다큐 [아이돌 인간극장]에 오신 여러분\n모두 환영합니다🎉\n\nEveryone, welcome to real (?) documentary no script [Idol Human Theater]🎉\n \nMore from #KBSKPOP\n\nTwitter:      https://twitter.com/idolhumandocu\n\n🎥제작 : STUDIO K\n📩비즈니스 문의 : officialstudiokk@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/STW98zpUov8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/STW98zpUov8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/STW98zpUov8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/STW98zpUov8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/STW98zpUov8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이돌 인간극장",
+        "tags": [
+          "KBS",
+          "KBSKPOP",
+          "StudioK",
+          "케이비에스",
+          "케이팝",
+          "스튜디오케이",
+          "스튜디오K",
+          "아이돌 인간극장",
+          "아이돌 인생극장",
+          "아인극",
+          "인간극장",
+          "아이돌인간극장",
+          "하이퍼 페이크 리얼리티",
+          "musicbank",
+          "얼빡직캠",
+          "SHINee HARD",
+          "뮤뱅얼빡 HARD",
+          "샤이니 HARD",
+          "HARD",
+          "하드 민호",
+          "MINHO",
+          "태민",
+          "TAEMIN",
+          "온유",
+          "ONEW",
+          "키",
+          "KEY",
+          "샤이니 뮤직뱅크",
+          "뮤직뱅크 SHINee",
+          "SHINee 뮤직뱅크",
+          "뮤직뱅크 샤이니",
+          "SHINee"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[ENG/JPN] 샤이니 등판 이슈! 15년 만에 밝혀진 새로운 사실들😱  | 아이돌 인간극장",
+          "description": "#SHINee #HARD #아이돌인간극장\n\n샤이니의 데뷔 15주년 & 컴백 회의\n15년 만에 새로운 사실이 밝혀졌다(?)\n\n대본 없는 리얼(?) 다큐 [아이돌 인간극장]에 오신 여러분\n모두 환영합니다🎉\n\nEveryone, welcome to real (?) documentary no script [Idol Human Theater]🎉\n \nMore from #KBSKPOP\n\nTwitter:      https://twitter.com/idolhumandocu\n\n🎥제작 : STUDIO K\n📩비즈니스 문의 : officialstudiokk@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qtm0auwjW8HYWGvOqAW4eU4dVP4",
+      "id": "FABOw10lRbg",
+      "snippet": {
+        "publishedAt": "2023-07-01T03:00:07Z",
+        "channelId": "UCee1MvXr6E8qC_d2WEYTU5g",
+        "title": "영상 내내 먹기만 함 | 견종백과 래브라도 리트리버편",
+        "description": "오늘 견종백과로 만나볼 친구는\n래브라도 리트리버입니다\n\n에어팟 아무 데나 올려놓으시면 안 돼요\n저도 알고 싶지 않았답니다... 😂😂\n\n또 봐요👋\n\n00:00 하이라이트\n00:12 래브라도 리트리버 소개\n00:20 래브라도 리트리버의 유래?\n00:50 래브라도 리트리버는 조렵견\n01:28 래브라도 리트리버의 먹성?\n02:30 골든 리트리버와의 차이점?\n03:08 래브라도 리트리버의 입질?\n03:32 래브라도 리트리버의 장점 | 성격\n03:48 래브라도 리트리버의 단점 | 성격\n03:57 래브라도 리트리버의 단점 | 털 빠짐\n04:23 래브라도 리트리버는 안내견\n04:53 래브라도 리트리버의 활동량\n05:41 래브라도 리트리버의 활동량 | 지랄 총량의 법칙\n06:03 래브라도 리트리버의 주의할 점?\n06:39 래브라도 리트리버의 질병?\n07:11 래브라도 리트리버의 키우는 난이도?\n07:25 To. 래브라도 키우는 보호자\n07:32 래브라도를 한마디로 표현하면?\n\n🐶강아지 키우기 어려우신가요!?\n앞으로 저희 채널과 함께 키워봅시다!\n\n📚 보듬교육 : https://www.bodeum.co.kr/\n🎁 보듬숍 : https://ppz.kr\n✨ 인스타그램 : https://www.instagram.com/hunter.kang \n🐾 비즈니스 문의 : bodeum@episodegroup.kr \n\n#강형욱 #강아지 #래브라도 #리트리버 #래브라도리트리버\nCopyright ⓒ 2023 Studio Episode - All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FABOw10lRbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FABOw10lRbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FABOw10lRbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FABOw10lRbg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FABOw10lRbg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강형욱의 보듬TV",
+        "tags": [
+          "강형욱",
+          "강형욱훈련사",
+          "보듬",
+          "보듬컴퍼니",
+          "BODEUM",
+          "강아지",
+          "반려견",
+          "Dog",
+          "puppy",
+          "いぬ",
+          "子犬",
+          "小犬",
+          "こいぬ",
+          "교육",
+          "훈련",
+          "세나개",
+          "discipline",
+          "training",
+          "訓練",
+          "教育",
+          "반려동물",
+          "dogyoutube",
+          "강아지유튜브",
+          "doggy",
+          "ボドゥム",
+          "カン・ヒョンウク",
+          "hunterkang",
+          "Koreandogtrainer",
+          "개훌륭",
+          "개는훌륭하다",
+          "강아지강씨",
+          "Dogs Are Incredible",
+          "KBS",
+          "Kang Hyong Wook",
+          "반려견행동전문가",
+          "훈련사",
+          "trainer",
+          "handler",
+          "Trained attendant",
+          "doggy guru",
+          "guru",
+          "dog whisperer"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "영상 내내 먹기만 함 | 견종백과 래브라도 리트리버편",
+          "description": "오늘 견종백과로 만나볼 친구는\n래브라도 리트리버입니다\n\n에어팟 아무 데나 올려놓으시면 안 돼요\n저도 알고 싶지 않았답니다... 😂😂\n\n또 봐요👋\n\n00:00 하이라이트\n00:12 래브라도 리트리버 소개\n00:20 래브라도 리트리버의 유래?\n00:50 래브라도 리트리버는 조렵견\n01:28 래브라도 리트리버의 먹성?\n02:30 골든 리트리버와의 차이점?\n03:08 래브라도 리트리버의 입질?\n03:32 래브라도 리트리버의 장점 | 성격\n03:48 래브라도 리트리버의 단점 | 성격\n03:57 래브라도 리트리버의 단점 | 털 빠짐\n04:23 래브라도 리트리버는 안내견\n04:53 래브라도 리트리버의 활동량\n05:41 래브라도 리트리버의 활동량 | 지랄 총량의 법칙\n06:03 래브라도 리트리버의 주의할 점?\n06:39 래브라도 리트리버의 질병?\n07:11 래브라도 리트리버의 키우는 난이도?\n07:25 To. 래브라도 키우는 보호자\n07:32 래브라도를 한마디로 표현하면?\n\n🐶강아지 키우기 어려우신가요!?\n앞으로 저희 채널과 함께 키워봅시다!\n\n📚 보듬교육 : https://www.bodeum.co.kr/\n🎁 보듬숍 : https://ppz.kr\n✨ 인스타그램 : https://www.instagram.com/hunter.kang \n🐾 비즈니스 문의 : bodeum@episodegroup.kr \n\n#강형욱 #강아지 #래브라도 #리트리버 #래브라도리트리버\nCopyright ⓒ 2023 Studio Episode - All Rights Reserved"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7b9izj2UnxQd-w5UGT6_WpdJPc8",
+      "id": "RmTq3cJqyCo",
+      "snippet": {
+        "publishedAt": "2023-07-02T15:00:15Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "ITZY “BET ON ME” M/V  @ITZY",
+        "description": "ITZY “BET ON ME” M/V \n\n🥊 ITZY 'KILL MY DOUBT' PRE-SAVE & PRE-ORDER\nhttps://ITZY.lnk.to/KILLMYDOUBT\n\n🥊 ALBUM RELEASE\n2023.07.31 MON 6PM (KST) | 5AM (EDT)\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITZY_KILLMYDOUBT #ITZYComeback\n\nCopyrights 2023 ⓒ JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmTq3cJqyCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmTq3cJqyCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmTq3cJqyCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RmTq3cJqyCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RmTq3cJqyCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "tags": [
+          "JYP Entertainment",
+          "JYP",
+          "ITZY",
+          "있지",
+          "イッチ",
+          "예지",
+          "리아",
+          "류진",
+          "채령",
+          "유나",
+          "YEJI",
+          "LIA",
+          "RYUJIN",
+          "CHAERYEONG",
+          "YUNA",
+          "イェジ",
+          "リア",
+          "リュジン",
+          "チェリョン",
+          "ユナ",
+          "อิทจี",
+          "เยจี",
+          "ลีอา",
+          "รยูจิน",
+          "แชรยอง",
+          "ยูนา",
+          "ITZY VIDEOS",
+          "ITZY LOCO",
+          "ITZY BEHIND",
+          "MV",
+          "ITZY MV",
+          "ITZY MUSIC VIEDOS",
+          "Teaser",
+          "ITZY Teaser",
+          "ITZY VLOG",
+          "VLOG",
+          "IT'z Different",
+          "IT'z ICY",
+          "IT'z ME",
+          "Not Shy",
+          "GUESS WHO",
+          "CRAZY IN LOVE",
+          "DALLA DALLA",
+          "ICY",
+          "WANNABE",
+          "마.피.아.IN THE MORNING",
+          "LOCO",
+          "SNEAKERS",
+          "있지있지",
+          "있있",
+          "CHESHIRE",
+          "체셔",
+          "#KILLMYDOUBT",
+          "#BETONME"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ITZY “BET ON ME” M/V  @ITZY",
+          "description": "ITZY “BET ON ME” M/V \n\n🥊 ITZY 'KILL MY DOUBT' PRE-SAVE & PRE-ORDER\nhttps://ITZY.lnk.to/KILLMYDOUBT\n\n🥊 ALBUM RELEASE\n2023.07.31 MON 6PM (KST) | 5AM (EDT)\n\n[ITZY Official]\n▶ https://www.youtube.com/c/ITZY\n▶ https://www.instagram.com/itzy.all.in.us\n▶ https://www.tiktok.com/@itzyofficial\n▶ http://www.twitter.com/ITZYOfficial\n▶ http://www.facebook.com/OfficialITZY\n▶ https://www.weibo.com/u/7462077750?is\n▶ http://ITZY.jype.com\n▶ http://fans.jype.com/ITZY\n\n#ITZY #ITZY_KILLMYDOUBT #ITZYComeback\n\nCopyrights 2023 ⓒ JYP Entertainment. All Rights Reserved"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "u-NujBMRSJJrPionLuuUAV26i4g",
+      "id": "cK25I74V49k",
+      "snippet": {
+        "publishedAt": "2023-07-02T11:00:32Z",
+        "channelId": "UCXURHJRGr4-EB3l87kcbElw",
+        "title": "더 센 배신은 없어요? | 우정을 찾아줘 | Finding 7-UJEONG EP.1",
+        "description": "NCT DREAM The 3rd Album 【ISTJ】\nDigital & Physical Album ➫ 2023.07.17 6PM (KST)\nUS/EU/LATAM/ANZ Physical Album Release ➫ 2023.08.18\nAlbum pre-order (with special exclusives!) : https://nctdream.lnk.to/ISTJ_PO \n\n🎧 'Broken Melodies' Single https://NCTDREAM.lnk.to/BrokenMelodies\n🎶 'Broken Melodies' MV https://youtu.be/2R_S5TgDWMY\n\nNCT DREAM Official\nhttps://www.youtube.com/nctdream\nhttps://www.instagram.com/nct_dream\nhttps://www.tiktok.com/@official_nct\nhttps://twitter.com/NCTsmtown_DREAM\nhttps://www.facebook.com/NCTDREAM.smtown\nhttps://twitter.com/NCT_OFFICIAL_JP\n\n#NCTDREAM #우정을찾아줘 \n#Finding_7UJEONG\n#ISTJ #NCTDREAM_ISTJ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cK25I74V49k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cK25I74V49k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cK25I74V49k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cK25I74V49k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cK25I74V49k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCT DREAM",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "더 센 배신은 없어요? | 우정을 찾아줘 | Finding 7-UJEONG EP.1",
+          "description": "NCT DREAM The 3rd Album 【ISTJ】\nDigital & Physical Album ➫ 2023.07.17 6PM (KST)\nUS/EU/LATAM/ANZ Physical Album Release ➫ 2023.08.18\nAlbum pre-order (with special exclusives!) : https://nctdream.lnk.to/ISTJ_PO \n\n🎧 'Broken Melodies' Single https://NCTDREAM.lnk.to/BrokenMelodies\n🎶 'Broken Melodies' MV https://youtu.be/2R_S5TgDWMY\n\nNCT DREAM Official\nhttps://www.youtube.com/nctdream\nhttps://www.instagram.com/nct_dream\nhttps://www.tiktok.com/@official_nct\nhttps://twitter.com/NCTsmtown_DREAM\nhttps://www.facebook.com/NCTDREAM.smtown\nhttps://twitter.com/NCT_OFFICIAL_JP\n\n#NCTDREAM #우정을찾아줘 \n#Finding_7UJEONG\n#ISTJ #NCTDREAM_ISTJ"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F9-T0jPEv51OLztoqgQdh0zbIww",
+      "id": "1gw8MtQNv_I",
+      "snippet": {
+        "publishedAt": "2023-07-01T09:34:18Z",
+        "channelId": "UC3Tjj344taq3njy4yaK8ZWw",
+        "title": "20시간동안 먼길오느라 고생하신 우크라이나 장모님 한우 사드리기",
+        "description": "- 난생처음 한국 삼겹살 먹어본 우크라이나 장모님 반응\nhttps://www.youtube.com/watch?v=rfB49fcfWYU\n유튜브 대회 참가중인 영상입니다\n많은 시청 부탁드립니다!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1gw8MtQNv_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1gw8MtQNv_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1gw8MtQNv_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1gw8MtQNv_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1gw8MtQNv_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "한국사는따냐 Tanya in Korea",
+        "tags": [
+          "국제커플#",
+          "우크라이나여자친구#",
+          "동유럽처자#",
+          "외국인여자친구#",
+          "우크라이나#",
+          "Ukraine#",
+          "Internationalcouple#",
+          "AMWF#",
+          "올포원펀TV#"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "20시간동안 먼길오느라 고생하신 우크라이나 장모님 한우 사드리기",
+          "description": "- 난생처음 한국 삼겹살 먹어본 우크라이나 장모님 반응\nhttps://www.youtube.com/watch?v=rfB49fcfWYU\n유튜브 대회 참가중인 영상입니다\n많은 시청 부탁드립니다!!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ECkk5UamobUkRKszypjiqfxGLnY",
+      "id": "lSC7S44sKdU",
+      "snippet": {
+        "publishedAt": "2023-06-30T09:00:36Z",
+        "channelId": "UCp0OmOWCVNzKh4du1dCvpLQ",
+        "title": "스쿨어택 온 르세라핌, K-고딩의 떼창에 심장어택 당하다,,,💘 | 전부 노래 잘함 Ep.59",
+        "description": "✅제품 구매 링크 👉 https://vo.la/yBhIw\n\n🎁구독자 이벤트🎁\n- 참여방법 : 좋아요와 재치있는 댓글을 남겨주세요!\nex) 스킨푸드 or 당근패드 사행시, 응원메세지, 사연 등 모든지 가능\n- 경품 : 당근 앰플 20명 (1인 1개)\n- 이벤트 기간(댓글 작성기간) : 23.07.07(금)까지\n- 이벤트 발표 : 23.07.12(수)\n- 당첨자 정보 입력 : 23.07.16(일)\n- 경품 발송 : 정보 입력(16일) 이후 7일 내 발송 \n*택배사 사정에 따라 변동될 수 있음\n\n코로나 세대 학생들에게🧡 르세라핌🧡을 선물했더니 반응이 ㅗㅜㅑ…🙊\n\n00:08:40 ANTIFRAGILE - LE SSERAFIM (르세라핌) (등장)\n00:14:50 이브, 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM (르세라핌) 챌린지 배우기\n00:23:18 UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM (르세라핌)\n\n—————————————————————————————————————————————————————————\n노래 잘하는 사람만 모였다 🎶 전부 노래 잘함 🎵\n⏰  매주 금요일 오후 6시 ⏰\n🔔 구독&좋아요&알림설정 🔔\n구독👉https://www.youtube.com/c/스튜디오피넛버터StudioPeanutButter\n인스타 팔로우👉https://www.instagram.com/studio.peanutbutter/\n—————————————————————————————————————————————————————————\n#르세라핌 #ANTIFRAGILE #스킨푸드 #LESSERAFIM  #UNFORGIVEN #이브프시케그리고푸른수염의아내  #학교버스킹 #전부노래잘함 #문세윤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lSC7S44sKdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lSC7S44sKdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lSC7S44sKdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lSC7S44sKdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lSC7S44sKdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스튜디오 피넛버터 - Studio Peanut Butter",
+        "tags": [
+          "르세라핌",
+          "le sserafim",
+          "antifragile",
+          "unforgiven",
+          "이브프시케그리고푸른수염",
+          "허윤진",
+          "김채원",
+          "사쿠라",
+          "카즈하",
+          "홍은채",
+          "챌린지 댄스",
+          "학교버스킹",
+          "원곡자 등장",
+          "원곡자 등판",
+          "원곡자 난입",
+          "전부노래잘함",
+          "문세윤"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "스쿨어택 온 르세라핌, K-고딩의 떼창에 심장어택 당하다,,,💘 | 전부 노래 잘함 Ep.59",
+          "description": "✅제품 구매 링크 👉 https://vo.la/yBhIw\n\n🎁구독자 이벤트🎁\n- 참여방법 : 좋아요와 재치있는 댓글을 남겨주세요!\nex) 스킨푸드 or 당근패드 사행시, 응원메세지, 사연 등 모든지 가능\n- 경품 : 당근 앰플 20명 (1인 1개)\n- 이벤트 기간(댓글 작성기간) : 23.07.07(금)까지\n- 이벤트 발표 : 23.07.12(수)\n- 당첨자 정보 입력 : 23.07.16(일)\n- 경품 발송 : 정보 입력(16일) 이후 7일 내 발송 \n*택배사 사정에 따라 변동될 수 있음\n\n코로나 세대 학생들에게🧡 르세라핌🧡을 선물했더니 반응이 ㅗㅜㅑ…🙊\n\n00:08:40 ANTIFRAGILE - LE SSERAFIM (르세라핌) (등장)\n00:14:50 이브, 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM (르세라핌) 챌린지 배우기\n00:23:18 UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM (르세라핌)\n\n—————————————————————————————————————————————————————————\n노래 잘하는 사람만 모였다 🎶 전부 노래 잘함 🎵\n⏰  매주 금요일 오후 6시 ⏰\n🔔 구독&좋아요&알림설정 🔔\n구독👉https://www.youtube.com/c/스튜디오피넛버터StudioPeanutButter\n인스타 팔로우👉https://www.instagram.com/studio.peanutbutter/\n—————————————————————————————————————————————————————————\n#르세라핌 #ANTIFRAGILE #스킨푸드 #LESSERAFIM  #UNFORGIVEN #이브프시케그리고푸른수염의아내  #학교버스킹 #전부노래잘함 #문세윤"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zq8N8w7fOcd6A8yrMUMT8kCwFgo",
+      "id": "Za5HpOyzY08",
+      "snippet": {
+        "publishedAt": "2023-07-01T05:00:12Z",
+        "channelId": "UCnFFOjljp1_sacTz7PfIIyg",
+        "title": "폭스클럽 와꾸베리 기절쌈바리다.",
+        "description": "#레오제이 #폭스클럽 #퓌애교살풀필러\n\n*이 영상은 퓌fwee의 유료광고를 포함하고 있으나, 레오제이 본인이 직접 사용기간을 거쳐 솔직한 후기만을 담은 영상입니다☺️\n\n❤️퓌 듀얼 애교살 풀필러 (2colors) : 01 위시어스타, 02디어포지\n7월 한달간 20% 할인💗지금 올리브영 매장에서 테스트해보세요! \nhttps://www.oliveyoung.co.kr/store/G.do?goodsNo=A000000187226\n\n✅7/2 단 하루! 올리브영 오늘의 특가 진행\n(정가 16,000원 → 오늘의 특가 12,160원 / 24%off)\n\n❤️오레오들을 위한 올리브영 리뷰 이벤트!\n: 리뷰 이벤트에 참여해주신 분들 중 우수 “포토 리뷰어” 20분을 선정해\n레오제이 X 밈고리즘 굿즈 티셔츠를 증정해드립니다 :)\n자세한 참여방법은 퓌 인스타그램 및 공식홈페이지를 참고해주세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Za5HpOyzY08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Za5HpOyzY08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Za5HpOyzY08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Za5HpOyzY08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Za5HpOyzY08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LeoJ Makeup",
+        "tags": [
+          "레오제이 브이로그",
+          "레오제이 친구",
+          "레오제이 친구들",
+          "레오제이 찐친",
+          "찐친 브이로그",
+          "폭스클럽",
+          "밈고리즘",
+          "너티야?",
+          "너T야?",
+          "미진",
+          "지원",
+          "지유",
+          "레오제이 폭스클럽",
+          "레오제이 샵",
+          "레오엔",
+          "레오제이 메이크업",
+          "애교살",
+          "올리브영",
+          "올리브영 할인",
+          "올리브영 할인 추천",
+          "애교살 메이크업",
+          "애교살 추천 템",
+          "애교살 그리기",
+          "애교살 그리는 법",
+          "얼굴 짧아보이는 메이크업",
+          "어려보이는 메이크업",
+          "동안 메이크업",
+          "헌팅 메이크업",
+          "도화살 메이크업",
+          "헌팅",
+          "폭스클럽 헌팅",
+          "레오제이 헌팅",
+          "조두명",
+          "레오제이 조두명",
+          "레오제이 용빈",
+          "크레용",
+          "2023밈",
+          "2023짤",
+          "피식대학",
+          "서준맘",
+          "피식쇼"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "폭스클럽 와꾸베리 기절쌈바리다.",
+          "description": "#레오제이 #폭스클럽 #퓌애교살풀필러\n\n*이 영상은 퓌fwee의 유료광고를 포함하고 있으나, 레오제이 본인이 직접 사용기간을 거쳐 솔직한 후기만을 담은 영상입니다☺️\n\n❤️퓌 듀얼 애교살 풀필러 (2colors) : 01 위시어스타, 02디어포지\n7월 한달간 20% 할인💗지금 올리브영 매장에서 테스트해보세요! \nhttps://www.oliveyoung.co.kr/store/G.do?goodsNo=A000000187226\n\n✅7/2 단 하루! 올리브영 오늘의 특가 진행\n(정가 16,000원 → 오늘의 특가 12,160원 / 24%off)\n\n❤️오레오들을 위한 올리브영 리뷰 이벤트!\n: 리뷰 이벤트에 참여해주신 분들 중 우수 “포토 리뷰어” 20분을 선정해\n레오제이 X 밈고리즘 굿즈 티셔츠를 증정해드립니다 :)\n자세한 참여방법은 퓌 인스타그램 및 공식홈페이지를 참고해주세요!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b72qKRgJ9lyKwpRgmwq8-AMUNLY",
+      "id": "hK47dorZTe4",
+      "snippet": {
+        "publishedAt": "2023-06-29T12:00:37Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#유퀴즈온더블럭] 누구보다 치열했던 피겨퀸 #김연아 자기님의 18년 선수 생활✨ ESFJ 연느님의 인간美 가득한 은퇴 후 일상까지💖 | #갓구운클립",
+        "description": "#갓구운클립 #유퀴즈온더블럭 #tvN\n\n〈유퀴즈 온더블럭〉 매주 수 오후 8시 45분 tvN에서!\nTVING으로 다시보기 👉 https://www.tving.com/contents/P000643144\n\nwe’re :DIGGLE family",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hK47dorZTe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hK47dorZTe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hK47dorZTe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hK47dorZTe4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hK47dorZTe4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "tags": [
+          "CJ100",
+          "tvN",
+          "yunakim",
+          "갓구운클립",
+          "갓클립",
+          "김연아",
+          "김연아 근황",
+          "김연아 디올",
+          "김연아 선수",
+          "김연아 은퇴",
+          "김연아 일상",
+          "유재석",
+          "유재석 웃참",
+          "유재석 웃참 모음",
+          "유재석 웃참 실패",
+          "유재석 조세호",
+          "유재석 조세호 웃긴",
+          "유퀴즈",
+          "유퀴즈 200회",
+          "유퀴즈 김연아",
+          "유퀴즈 다시보기",
+          "유퀴즈 레전드",
+          "유퀴즈 레전드 다시보기",
+          "유퀴즈 레전드 모음",
+          "유퀴즈 모음",
+          "유퀴즈 모음집",
+          "유퀴즈 웃참",
+          "유퀴즈 일반인",
+          "유퀴즈 일반인 레전드",
+          "유퀴즈 하이라이트",
+          "유퀴즈온더블럭",
+          "유퀴즈온더블럭 다시보기",
+          "유퀴즈온더블럭 레전드",
+          "유퀴즈온더블럭 레전드 다시보기",
+          "유퀴즈온더블럭 웃긴영상",
+          "유퀴즈온더블럭 일반인",
+          "유퀴즈온더블럭 하이라이트",
+          "조세호"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[#유퀴즈온더블럭] 누구보다 치열했던 피겨퀸 #김연아 자기님의 18년 선수 생활✨ ESFJ 연느님의 인간美 가득한 은퇴 후 일상까지💖 | #갓구운클립",
+          "description": "#갓구운클립 #유퀴즈온더블럭 #tvN\n\n〈유퀴즈 온더블럭〉 매주 수 오후 8시 45분 tvN에서!\nTVING으로 다시보기 👉 https://www.tving.com/contents/P000643144\n\nwe’re :DIGGLE family"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x4k6j9G8Zijcy5HZACy_UDIkHxo",
+      "id": "ea4Kjaz6Dw8",
+      "snippet": {
+        "publishedAt": "2023-07-01T15:00:25Z",
+        "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+        "title": "NMIXX \"Roller Coaster\" M/V Teaser",
+        "description": "NMIXX \"Roller Coaster\" M/V Teaser\n\nNMIXX 'A Midsummer NMIXX's Dream' Pre-order & Pre-save ▶ https://nmixx.lnk.to/AMidsummerNMIXXDream\n\nNMIXX Official YouTube ▶ https://www.youtube.com/c/NMIXXOfficial\nNMIXX Official Twitter ▶ https://twitter.com/NMIXX_official\nNMIXX Official Instagram ▶ https://www.instagram.com/nmixx_official/\nNMIXX Official Facebook ▶ https://www.facebook.com/NMIXXOfficial/\nNMIXX Official Weibo ▶ https://weibo.com/NMIXXOfficial\nNMIXX Official Website ▶ https://nmixx.jype.com/\nNMIXX Official Fan's ▶ https://fans.jype.com/nmixx\nNMIXX Official TikTok ▶ www.tiktok.com/@nmixx_official\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#NMIXX #엔믹스\n#A_Midsummer_NMIXXs_Dream \n#Roller_Coaster",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ea4Kjaz6Dw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ea4Kjaz6Dw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ea4Kjaz6Dw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ea4Kjaz6Dw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ea4Kjaz6Dw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JYP Entertainment",
+        "tags": [
+          "JYP Entertainment",
+          "JYP",
+          "NMIXX",
+          "엔믹스",
+          "릴리",
+          "LILY",
+          "LILY M",
+          "해원",
+          "HAEWON",
+          "오해원",
+          "설윤",
+          "SULLYOON",
+          "설윤아",
+          "배이",
+          "BAE",
+          "배진솔",
+          "지우",
+          "JIWOO",
+          "김지우",
+          "규진",
+          "KYUJIN",
+          "장규진",
+          "JYPn",
+          "kpop",
+          "girlgroup",
+          "#A Midsummer NMIXX's Dream",
+          "3rd Single",
+          "Single",
+          "3rd",
+          "Party O'Clock"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "NMIXX \"Roller Coaster\" M/V Teaser",
+          "description": "NMIXX \"Roller Coaster\" M/V Teaser\n\nNMIXX 'A Midsummer NMIXX's Dream' Pre-order & Pre-save ▶ https://nmixx.lnk.to/AMidsummerNMIXXDream\n\nNMIXX Official YouTube ▶ https://www.youtube.com/c/NMIXXOfficial\nNMIXX Official Twitter ▶ https://twitter.com/NMIXX_official\nNMIXX Official Instagram ▶ https://www.instagram.com/nmixx_official/\nNMIXX Official Facebook ▶ https://www.facebook.com/NMIXXOfficial/\nNMIXX Official Weibo ▶ https://weibo.com/NMIXXOfficial\nNMIXX Official Website ▶ https://nmixx.jype.com/\nNMIXX Official Fan's ▶ https://fans.jype.com/nmixx\nNMIXX Official TikTok ▶ www.tiktok.com/@nmixx_official\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#NMIXX #엔믹스\n#A_Midsummer_NMIXXs_Dream \n#Roller_Coaster"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "91RnSfvp_Zg0qZ-RGSUf2F9cKiQ",
+      "id": "nSYgKbQ3sEE",
+      "snippet": {
+        "publishedAt": "2023-07-01T10:00:35Z",
+        "channelId": "UCHbT1KmTlkocMT0z5VB4bUg",
+        "title": "이번엔 물꼬기다! 작살내서 도감 다 채움",
+        "description": "도감 올클리어 너무 쉽쟈냐?\n\n#아오니 #동물의숲 #모동숲 \n\n🏝섬 이름 : 아보카도🥑 / 마라도\n👩주민대표 : 아오니\n🌙꿈번지 : DA-2528-5743-8067 / DA-6351-3927-7264\n🌙해피홈 : RA-1157-2190-7226\n🌟\u200d인스타그램 : aonioni_\n🌟\u200d팬카페 : https://cafe.naver.com/aonioni\n\n[BGM 출처]\n🎵Music provided by 브금대통령\n🎵Track : 귀여운 BGM 모음 2 - https://youtu.be/Gkh-wz-cHyg\n🎵Track : 도둑의 계획 - https://youtu.be/CKuI-6-Izhc\n🎵Track : 나는야 장난꾸러기 - https://youtu.be/MYLjqNApdTE\n🎵Track : 와 이거 뭔데 - https://youtu.be/7zswBFefpLU\n🎵Track : 이게 머선129 - https://youtu.be/gOtwGaQUbzM\n🎵Track : Chicken Run - https://youtu.be/Jxn_5jtrulA\n🎵Track : 에어컨 아래에서 - https://youtu.be/f8nd8Fq90lU\n🎵Track : 음악시간 - https://youtu.be/gJk4hr3r26E\n🎵Track : 뉘예뉘예 - https://youtu.be/r0zC62qBm_w\n\nSong : ODT SOUND - with my puppy\nFollow Artist : https://www.youtube.com/user/jjumini \nMusic promoted by DayDreamSound : https://youtu.be/Mk8SP4eixq4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nSYgKbQ3sEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nSYgKbQ3sEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nSYgKbQ3sEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nSYgKbQ3sEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nSYgKbQ3sEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아오니 AONI",
+        "tags": [
+          "모동숲",
+          "물고기도감",
+          "도감작",
+          "동숲",
+          "동물의숲",
+          "모여봐요동물의숲",
+          "노가다",
+          "물꼬기"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이번엔 물꼬기다! 작살내서 도감 다 채움",
+          "description": "도감 올클리어 너무 쉽쟈냐?\n\n#아오니 #동물의숲 #모동숲 \n\n🏝섬 이름 : 아보카도🥑 / 마라도\n👩주민대표 : 아오니\n🌙꿈번지 : DA-2528-5743-8067 / DA-6351-3927-7264\n🌙해피홈 : RA-1157-2190-7226\n🌟\u200d인스타그램 : aonioni_\n🌟\u200d팬카페 : https://cafe.naver.com/aonioni\n\n[BGM 출처]\n🎵Music provided by 브금대통령\n🎵Track : 귀여운 BGM 모음 2 - https://youtu.be/Gkh-wz-cHyg\n🎵Track : 도둑의 계획 - https://youtu.be/CKuI-6-Izhc\n🎵Track : 나는야 장난꾸러기 - https://youtu.be/MYLjqNApdTE\n🎵Track : 와 이거 뭔데 - https://youtu.be/7zswBFefpLU\n🎵Track : 이게 머선129 - https://youtu.be/gOtwGaQUbzM\n🎵Track : Chicken Run - https://youtu.be/Jxn_5jtrulA\n🎵Track : 에어컨 아래에서 - https://youtu.be/f8nd8Fq90lU\n🎵Track : 음악시간 - https://youtu.be/gJk4hr3r26E\n🎵Track : 뉘예뉘예 - https://youtu.be/r0zC62qBm_w\n\nSong : ODT SOUND - with my puppy\nFollow Artist : https://www.youtube.com/user/jjumini \nMusic promoted by DayDreamSound : https://youtu.be/Mk8SP4eixq4"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ntiw4Aiz19Z0VrZW6T4fm6kweQ0",
+      "id": "OOAAildICq8",
+      "snippet": {
+        "publishedAt": "2023-07-02T05:00:15Z",
+        "channelId": "UCx3yPlawkBXjATPVwuBsZIw",
+        "title": "미국 출산 후 48시간 퇴원 | 첫손녀를 본 미국 시어머니 반응 | 신생아 동생 처음 본 첫째 아들의 반응",
+        "description": "많은 분들이 로건이가 동생이 생긴 후 어떻냐고 묻는데요,\n세상에서 제일 스윗한 오빠에요. \n첫 몇 주는 그 모습이 얼마나 짠하던지요🥲\n오늘도 저희 영상을 시청해주셔서 감사합니다.\n\n✔️ http://www.instagram.com/milinilgi     (@milinilgi)\n✔️ ssynee.8180@gmail.com\n\n🎵\nMusic provided by 브금대통령\nTrack : 나비와 강아지 - https://youtu.be/5JK7OWpUc-4\n\nMusic provided by 브금대통령\n🎵Track : 금붕어는 심심해 - https://youtu.be/vms3dAYKPqE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OOAAildICq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OOAAildICq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OOAAildICq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OOAAildICq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OOAAildICq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NICOLE 니콜",
+        "tags": [
+          "국제커플",
+          "국제부부",
+          "국제결혼",
+          "미국일상",
+          "미국 일상",
+          "미국 브이로그",
+          "미국 vlog",
+          "국제커플 미국",
+          "일상 브이로그",
+          "육아일상",
+          "육아 브이로그",
+          "국제가족",
+          "Korean vlog",
+          "시어머니 반응",
+          "미국 시댁 반응",
+          "미국 출산",
+          "meeting baby sister",
+          "new baby brother",
+          "meeting little brother",
+          "boy meeting his new little sister for the first time"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미국 출산 후 48시간 퇴원 | 첫손녀를 본 미국 시어머니 반응 | 신생아 동생 처음 본 첫째 아들의 반응",
+          "description": "많은 분들이 로건이가 동생이 생긴 후 어떻냐고 묻는데요,\n세상에서 제일 스윗한 오빠에요. \n첫 몇 주는 그 모습이 얼마나 짠하던지요🥲\n오늘도 저희 영상을 시청해주셔서 감사합니다.\n\n✔️ http://www.instagram.com/milinilgi     (@milinilgi)\n✔️ ssynee.8180@gmail.com\n\n🎵\nMusic provided by 브금대통령\nTrack : 나비와 강아지 - https://youtu.be/5JK7OWpUc-4\n\nMusic provided by 브금대통령\n🎵Track : 금붕어는 심심해 - https://youtu.be/vms3dAYKPqE"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kOfu-MODwoTuBi0nT8e8ZtVgdao",
+      "id": "mx8XrhDPQM4",
+      "snippet": {
+        "publishedAt": "2023-07-01T11:00:28Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "EU 오피셜 떴습니다;;; 아이폰, 갤럭시 배터리 탈부착 의무화 법안 통과?",
+        "description": "로스트 테크놀로지.. EU에서 환경보호를 위해 스마트폰의 배터리를 손쉽게 탈부착할 수 있게 하라는 방침을 승인해버렸습니다. 예전에는 배터리 탈부착이 당연했다지만 일체형이 너무 익숙해져버린 지금 그게 과연 잘 될까요? \n\n⏲️ Timestamps.\n00:00 인트로\n00:14 오프닝\n01:18 법안 주요내용\n02:27 유럽 연합과 환경?\n04:18 이로 인한 변화는?\n08:57 소비자들의 생각은?\n10:08 오늘의 결론\n\n🎵 Music.\nES_Dissolving - Hanna Lindgren\nES_Valhalla - [ocean jams]\n\n👕 Merch.\n지금 입고있는 옷? : https://abit.ly/blackcowlabs\n\n\n📧 Business contacts.\n itsub@itud.io\n\n#배터리탈부착 #로스트테크놀로지 #EU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ITSub잇섭",
+        "tags": [
+          "EU",
+          "배터리",
+          "스마트폰 배터리",
+          "배터리 탈부착",
+          "배터리 탈착",
+          "EU 배터리",
+          "일체형 배터리",
+          "배터리 분리",
+          "배터리 탈거",
+          "배터리 탈착 스마트폰",
+          "eu 환경",
+          "애플 환경",
+          "애플 배터리",
+          "삼성 배터리",
+          "갤럭시 배터리",
+          "아이폰 배터리"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "EU 오피셜 떴습니다;;; 아이폰, 갤럭시 배터리 탈부착 의무화 법안 통과?",
+          "description": "로스트 테크놀로지.. EU에서 환경보호를 위해 스마트폰의 배터리를 손쉽게 탈부착할 수 있게 하라는 방침을 승인해버렸습니다. 예전에는 배터리 탈부착이 당연했다지만 일체형이 너무 익숙해져버린 지금 그게 과연 잘 될까요? \n\n⏲️ Timestamps.\n00:00 인트로\n00:14 오프닝\n01:18 법안 주요내용\n02:27 유럽 연합과 환경?\n04:18 이로 인한 변화는?\n08:57 소비자들의 생각은?\n10:08 오늘의 결론\n\n🎵 Music.\nES_Dissolving - Hanna Lindgren\nES_Valhalla - [ocean jams]\n\n👕 Merch.\n지금 입고있는 옷? : https://abit.ly/blackcowlabs\n\n\n📧 Business contacts.\n itsub@itud.io\n\n#배터리탈부착 #로스트테크놀로지 #EU"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vv2pmGV_gVxmCcn7IIjNyQOYuqo",
+      "id": "-vBAdiN1n-0",
+      "snippet": {
+        "publishedAt": "2023-06-30T09:00:01Z",
+        "channelId": "UCmzN1qaCzjKtezHbzJXGvxg",
+        "title": "[ENG] 푸바오 옆집에.. 낯선 판다가 산다구요?! 익숙한 판다 뒷모습에 호기심 폭발한 푸바오, 예쁘게 자는 아이바오까지 #판다와쏭",
+        "description": "아이바오와 방을 바꾼 후에\n러부지와 한층 가까워진 딸랑구 ㅋㅋㅋ\n\n이러다 송바오 없을 때 둘이서\n대나무 서리하는 법 모의하는건 아니겠죠?? 🤣\n\n바오가족의 활동량 늘리기 대작전!\n송바오의 전략은 과연 무엇~???\n\n지금 판다와쏭에서 확인하쏭~\n\n#푸바오 #아이바오 #러바오 #송바오 #판다와쏭\n-\n에버랜드 SNS\n✔ 블로그_ https://www.witheverland.com\n✔ 인스타그램_ https://instagram.com/witheverland\n✔ 페이스북_ https://facebook.com/witheverland\n✔ 말하는동물원 뿌빠TV_ https://bit.ly/3bliNzq\n✔ 동물원 커뮤니티 '주토피아'_ https://bit.ly/409FvUc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vBAdiN1n-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vBAdiN1n-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vBAdiN1n-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vBAdiN1n-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vBAdiN1n-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에버랜드 - EVERLAND",
+        "tags": [
+          "에버랜드",
+          "판다월드",
+          "강철원",
+          "판다사육사",
+          "강바오",
+          "송바오",
+          "송영관",
+          "푸바오사육사",
+          "판다짤",
+          "푸바오덕질",
+          "아가푸바오",
+          "아기동물",
+          "아기판다",
+          "판다로그",
+          "판다",
+          "푸바오",
+          "아이바오",
+          "러바오",
+          "동물",
+          "바오가족",
+          "바오패밀리",
+          "에버랜드판다",
+          "사파리",
+          "로스트밸리",
+          "동물원",
+          "동물교감",
+          "동물농장",
+          "애니멀봐",
+          "롯데월드",
+          "서울랜드",
+          "경주월드",
+          "레고랜드",
+          "놀이공원",
+          "힐링짤",
+          "동물영상",
+          "유퀴즈",
+          "everland",
+          "fubao",
+          "panda",
+          "aibao",
+          "lebao",
+          "yaya",
+          "babypanda"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[ENG] 푸바오 옆집에.. 낯선 판다가 산다구요?! 익숙한 판다 뒷모습에 호기심 폭발한 푸바오, 예쁘게 자는 아이바오까지 #판다와쏭",
+          "description": "아이바오와 방을 바꾼 후에\n러부지와 한층 가까워진 딸랑구 ㅋㅋㅋ\n\n이러다 송바오 없을 때 둘이서\n대나무 서리하는 법 모의하는건 아니겠죠?? 🤣\n\n바오가족의 활동량 늘리기 대작전!\n송바오의 전략은 과연 무엇~???\n\n지금 판다와쏭에서 확인하쏭~\n\n#푸바오 #아이바오 #러바오 #송바오 #판다와쏭\n-\n에버랜드 SNS\n✔ 블로그_ https://www.witheverland.com\n✔ 인스타그램_ https://instagram.com/witheverland\n✔ 페이스북_ https://facebook.com/witheverland\n✔ 말하는동물원 뿌빠TV_ https://bit.ly/3bliNzq\n✔ 동물원 커뮤니티 '주토피아'_ https://bit.ly/409FvUc"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "esCnBiQiTVup8GdGNUeBe-DoJQo",
+      "id": "BdkL-kysOWM",
+      "snippet": {
+        "publishedAt": "2023-06-30T09:00:06Z",
+        "channelId": "UCaaZFxjlHI3T_I-uFbldIGA",
+        "title": "소맥대전쟁 2",
+        "description": "냥코대전쟁 9주년! 지금 바로 다운로드하러 가자냥!\n https://app.adjust.com/11pg7cfl\n\n소맥거핀 스튜디오!\n소맥거핀, 찬스, 디누, 조유난, 려무, 데미, 김말리\n\n비즈니스 문의 -  somacguffin@sandbox.co.kr\n\n팬아트는 메일로 보내주시면 감사하겠습니다!\n소맥거핀 메일 - somacguffin@naver.com\n\n캐릭터 사진, 일러스트는 블로그에서 다운받아주세요!\n소맥거핀 블로그 -  https://blog.naver.com/somacguffin\u200b\u200b\u200b\n\nThe battle cats Animation\n\n#소맥거핀 #냥코대전쟁 #애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BdkL-kysOWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BdkL-kysOWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BdkL-kysOWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BdkL-kysOWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BdkL-kysOWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소맥거핀",
+        "tags": [
+          "게임 만화",
+          "병맛",
+          "웃긴",
+          "만화",
+          "소맥거핀",
+          "애니메이션",
+          "게임 애니메이션",
+          "웃긴 만화",
+          "병맛 만화",
+          "소맥거핀 애니메이션",
+          "소맥거핀 만화",
+          "영화/애니메이션",
+          "게임",
+          "코미디",
+          "소맥",
+          "somacguffin",
+          "somacguffin animation",
+          "animation",
+          "meme",
+          "냥코대전쟁",
+          "The Battle Cats"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "소맥대전쟁 2",
+          "description": "냥코대전쟁 9주년! 지금 바로 다운로드하러 가자냥!\n https://app.adjust.com/11pg7cfl\n\n소맥거핀 스튜디오!\n소맥거핀, 찬스, 디누, 조유난, 려무, 데미, 김말리\n\n비즈니스 문의 -  somacguffin@sandbox.co.kr\n\n팬아트는 메일로 보내주시면 감사하겠습니다!\n소맥거핀 메일 - somacguffin@naver.com\n\n캐릭터 사진, 일러스트는 블로그에서 다운받아주세요!\n소맥거핀 블로그 -  https://blog.naver.com/somacguffin\u200b\u200b\u200b\n\nThe battle cats Animation\n\n#소맥거핀 #냥코대전쟁 #애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q4HseUoCdepLeU2PgXOQI3cYnI8",
+      "id": "kTQzOwlIrLI",
+      "snippet": {
+        "publishedAt": "2023-07-02T09:00:33Z",
+        "channelId": "UCIUfR-2qcpWqgAIfZJXOLWA",
+        "title": "궁극의 물회 : 32년 내 인생 가장 자신있는 요리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kTQzOwlIrLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kTQzOwlIrLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTQzOwlIrLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kTQzOwlIrLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kTQzOwlIrLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "수빙수tv sooBingsoo",
+        "tags": ["수빙수"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "궁극의 물회 : 32년 내 인생 가장 자신있는 요리",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Jotizf8Xi9SOeAs4zWXb1hWLqck",
+      "id": "wbHg0jAEZ8Y",
+      "snippet": {
+        "publishedAt": "2023-07-01T13:00:44Z",
+        "channelId": "UCzCedBCSSltI1TFd3bKyN6g",
+        "title": "야 로맨틱한 말을 하라고‼️ | Hear My Heart Skip A Beat",
+        "description": "EXO's pre-release single \"Hear Me Out\" is out!\nListen and download on your favorite platform: https://EXO.lnk.to/HearMeOut\n📢 'Hear Me Out' MV https://youtu.be/r2VZQa2IgP4\n\nEXO's 7th Album \"EXIST\" will be released on July 10th, 6PM (KST).\n💿 Pre-order ➫ https://EXO.lnk.to/EXIST\n\n🌊 'Let Me In' MV https://youtu.be/91VhCIQNjIc\n🎧 https://EXO.lnk.to/LetMeIn\n\nEXO Official\nhttps://www.youtube.com/weareoneEXO\nhttps://www.facebook.com/weareoneEXO\nhttps://www.instagram.com/weareone.exo\nhttps://twitter.com/weareoneEXO\nhttps://www.tiktok.com/@weareone.exo_official\n\n#EXO #HearMeOut #EXIST\n#엑소 #weareoneEXO\n#EXO_HearMeOut #EXO_EXIST",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wbHg0jAEZ8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wbHg0jAEZ8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wbHg0jAEZ8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wbHg0jAEZ8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wbHg0jAEZ8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EXO",
+        "tags": [
+          "EXO",
+          "엑소",
+          "엑소케이",
+          "엑소엠",
+          "exok",
+          "exom",
+          "수호",
+          "suho",
+          "백현",
+          "baekhyun",
+          "시우민",
+          "xiumin",
+          "찬열",
+          "chanyeol",
+          "첸",
+          "chen",
+          "디오",
+          "d.o.",
+          "세훈",
+          "sehun",
+          "exist",
+          "hear me out",
+          "카이",
+          "kai"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "야 로맨틱한 말을 하라고‼️ | Hear My Heart Skip A Beat",
+          "description": "EXO's pre-release single \"Hear Me Out\" is out!\nListen and download on your favorite platform: https://EXO.lnk.to/HearMeOut\n📢 'Hear Me Out' MV https://youtu.be/r2VZQa2IgP4\n\nEXO's 7th Album \"EXIST\" will be released on July 10th, 6PM (KST).\n💿 Pre-order ➫ https://EXO.lnk.to/EXIST\n\n🌊 'Let Me In' MV https://youtu.be/91VhCIQNjIc\n🎧 https://EXO.lnk.to/LetMeIn\n\nEXO Official\nhttps://www.youtube.com/weareoneEXO\nhttps://www.facebook.com/weareoneEXO\nhttps://www.instagram.com/weareone.exo\nhttps://twitter.com/weareoneEXO\nhttps://www.tiktok.com/@weareone.exo_official\n\n#EXO #HearMeOut #EXIST\n#엑소 #weareoneEXO\n#EXO_HearMeOut #EXO_EXIST"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dgebDByZFaqunbVn4vrgb9maSCU",
+      "id": "4jheco225wI",
+      "snippet": {
+        "publishedAt": "2023-06-29T09:00:07Z",
+        "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
+        "title": "[성시경 노래] 54. 아로하(With.이재훈) l Sung Si Kyung Music",
+        "description": "#성시경노래 #성시경 #이재훈 #쿨\n#자오늘은 #노래커버 #비대면콘서트\n\n00:00 멘트\n02:23 아로하 (With.이재훈)\n\nVocal : 이재훈\nVocal : 성시경\nKeyboard : 안준영\nDrum : 장혁\nGuitar : 정재필\nBass : 장태웅\n\nMix : 박근상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4jheco225wI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4jheco225wI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4jheco225wI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4jheco225wI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4jheco225wI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "성시경 SUNG SI KYUNG",
+        "tags": [
+          "성시경",
+          "성시경유튜브",
+          "SUNGSIKYUNG",
+          "SSK",
+          "ソンシギョン",
+          "成始璄"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[성시경 노래] 54. 아로하(With.이재훈) l Sung Si Kyung Music",
+          "description": "#성시경노래 #성시경 #이재훈 #쿨\n#자오늘은 #노래커버 #비대면콘서트\n\n00:00 멘트\n02:23 아로하 (With.이재훈)\n\nVocal : 이재훈\nVocal : 성시경\nKeyboard : 안준영\nDrum : 장혁\nGuitar : 정재필\nBass : 장태웅\n\nMix : 박근상"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UE7galq2GUPJ_irNwNNY4oyvHgA",
+      "id": "pOVNGANwcrk",
+      "snippet": {
+        "publishedAt": "2023-07-01T09:00:26Z",
+        "channelId": "UCb_gdTMC2xeuO1p8lKkZHHQ",
+        "title": "포레스텔라(Forestella) 'White Night (백야)' M/V",
+        "description": "#포레스텔라 #Forestella #WhiteNight #백야 \n\n▶ OFFICIAL SITE \nHomepage : http://www.beatkor.com\nTwitter : https://twitter.com/official_fore\nInstagram : https://www.instagram.com/official.forestella/\nfacebook : https://www.facebook.com/official.forestella/\nFan Cafe : https://cafe.daum.net/official.forestella",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pOVNGANwcrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pOVNGANwcrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pOVNGANwcrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pOVNGANwcrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pOVNGANwcrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포레스텔라 Forestella  ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "포레스텔라(Forestella) 'White Night (백야)' M/V",
+          "description": "#포레스텔라 #Forestella #WhiteNight #백야 \n\n▶ OFFICIAL SITE \nHomepage : http://www.beatkor.com\nTwitter : https://twitter.com/official_fore\nInstagram : https://www.instagram.com/official.forestella/\nfacebook : https://www.facebook.com/official.forestella/\nFan Cafe : https://cafe.daum.net/official.forestella"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yhHuU3H5QBN0acL7ybljfpqh28U",
+      "id": "3aBvbIftZH4",
+      "snippet": {
+        "publishedAt": "2023-06-29T08:00:08Z",
+        "channelId": "UCUyfkq9e9ZfPzxOW5WQ9rzQ",
+        "title": "(SUB) 와 차갑다 차갑다 얼음공주 오셨다 하지만 Sexy💋 샤이니가 노래 실력으로 얼버무려서 감추려 했던 아미고 가사의 실체 / [문명특급 EP.298]",
+        "description": "내 여자 하난 끝까지 사랑해줄 멋진 男\n샤이니가 아미고 부르면서 지키고 싶었던 그 사람은 아마 본인들이 아니었을까?\n\n#샤이니 #아미고 #HARD\n\n총괄 기획/하현종  진행/이은재  기획/이규희  구성/이은재 이규희 이지흔  촬영/다올미디어  브랜드디자인/김하경  CG/박도이  행정/박다미 이수아  마케팅/홍솔비  출고/김혜린  자막/홍은설  프리뷰/강현주  외부 편집/이한솔 김유진 김수영  조연출 · 편집/권나영 정영서  연출/홍민지  제작/SBS디지털뉴스랩 크리에이티브 사업부문",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3aBvbIftZH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3aBvbIftZH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aBvbIftZH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3aBvbIftZH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3aBvbIftZH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "문명특급 - MMTG",
+        "tags": [
+          "문명특급",
+          "문특",
+          "재재",
+          "JAEJAE",
+          "샤이니",
+          "shinee",
+          "SHINEE",
+          "키",
+          "민호",
+          "태민",
+          "온유",
+          "종현",
+          "key",
+          "minho",
+          "taemin",
+          "onew",
+          "jonghyun",
+          "hard",
+          "하드",
+          "샤이니월드",
+          "샤월",
+          "컴백",
+          "sm",
+          "링딩동",
+          "수능금지곡",
+          "산소같은너",
+          "아미고",
+          "amigo",
+          "ringdingdong",
+          "dontcallme",
+          "돈콜미",
+          "급노예모드",
+          "완소남",
+          "광기",
+          "그시절",
+          "kpop",
+          "케이팝",
+          "옛날케이팝",
+          "보이그룹",
+          "boygroup",
+          "누너예",
+          "누난너무예뻐",
+          "줄리엣",
+          "드림걸",
+          "whysoserious",
+          "dreamgirl",
+          "sm타운",
+          "켄지",
+          "유영진",
+          "SHINee",
+          "슈퍼주니어",
+          "엔시티드림",
+          "에스파",
+          "이특",
+          "예성"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "(SUB) 와 차갑다 차갑다 얼음공주 오셨다 하지만 Sexy💋 샤이니가 노래 실력으로 얼버무려서 감추려 했던 아미고 가사의 실체 / [문명특급 EP.298]",
+          "description": "내 여자 하난 끝까지 사랑해줄 멋진 男\n샤이니가 아미고 부르면서 지키고 싶었던 그 사람은 아마 본인들이 아니었을까?\n\n#샤이니 #아미고 #HARD\n\n총괄 기획/하현종  진행/이은재  기획/이규희  구성/이은재 이규희 이지흔  촬영/다올미디어  브랜드디자인/김하경  CG/박도이  행정/박다미 이수아  마케팅/홍솔비  출고/김혜린  자막/홍은설  프리뷰/강현주  외부 편집/이한솔 김유진 김수영  조연출 · 편집/권나영 정영서  연출/홍민지  제작/SBS디지털뉴스랩 크리에이티브 사업부문"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZqoVN-0ZeTqj_TMseYhnK31ve2U",
+      "id": "u01bgYlvSFc",
+      "snippet": {
+        "publishedAt": "2023-07-02T10:56:50Z",
+        "channelId": "UCw5X6yzXwIcaSzJAQsL69Ug",
+        "title": "비바람 몰아치는 날 얼음 동동 막걸리와 아늑한 솔캠 | 무더위 타파하기 | 동검도노을캠핑장",
+        "description": "#강화도캠핑장 #차박텐트 #우중캠핑\n\n\n\n-영상에 사용된 장비-\n텐트 : 아이두젠 - 반타\n러그 : 리빙플러스 - 반타전용러그\n버너 : 코베아 - 캠프원 플러스\n체어 : 폴러스터프 - LIGHTWEIGHT CAMPING CHAIR\n화목난로 : 포몰리 - TAISOCA 오븐스토브\n수납 : 미니멀웍스 - 롤리바스켓U\n분홍이식탁 : 베른 - 트레킹 패드\n테이블 : 노스피크 - 트레이 테이블\n에어펌프 : 크리스탈클라우드\n테이블 : 도도팩토리 - 쿨러스탠드\n테이블 : 마운트리버 - 포폴딩테이블\n쉘프 : 아베나키 - 티크우드 미니쉘프\n식칼 : 산켄 - 미니 중식도\n랜턴 : 골제로 - 마이크로 플래쉬\n랜턴 : 크래모아 - 쓰리페이스m\n세면백 : 해시그라운드 - B23 휴대용 접이식 다용도 세면 파우치\n\n\n인스타그램: jojo_camping\n메일주소: jojocamping@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u01bgYlvSFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u01bgYlvSFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u01bgYlvSFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u01bgYlvSFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u01bgYlvSFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "조조캠핑",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "비바람 몰아치는 날 얼음 동동 막걸리와 아늑한 솔캠 | 무더위 타파하기 | 동검도노을캠핑장",
+          "description": "#강화도캠핑장 #차박텐트 #우중캠핑\n\n\n\n-영상에 사용된 장비-\n텐트 : 아이두젠 - 반타\n러그 : 리빙플러스 - 반타전용러그\n버너 : 코베아 - 캠프원 플러스\n체어 : 폴러스터프 - LIGHTWEIGHT CAMPING CHAIR\n화목난로 : 포몰리 - TAISOCA 오븐스토브\n수납 : 미니멀웍스 - 롤리바스켓U\n분홍이식탁 : 베른 - 트레킹 패드\n테이블 : 노스피크 - 트레이 테이블\n에어펌프 : 크리스탈클라우드\n테이블 : 도도팩토리 - 쿨러스탠드\n테이블 : 마운트리버 - 포폴딩테이블\n쉘프 : 아베나키 - 티크우드 미니쉘프\n식칼 : 산켄 - 미니 중식도\n랜턴 : 골제로 - 마이크로 플래쉬\n랜턴 : 크래모아 - 쓰리페이스m\n세면백 : 해시그라운드 - B23 휴대용 접이식 다용도 세면 파우치\n\n\n인스타그램: jojo_camping\n메일주소: jojocamping@naver.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hym-lKkwz23X6hTuOeJXuKNsWHk",
+      "id": "Zc3l5d_J46Y",
+      "snippet": {
+        "publishedAt": "2023-06-30T09:00:33Z",
+        "channelId": "UC1Rz7a_DWtsE9cQwSyElE0Q",
+        "title": "주식회사 기안84 워크샵",
+        "description": "2023년 넷마블 기대작 『신의 탑: 새로운 세계』 \n👉 지금 사전등록: https://ntiny.link/TOG84\n인기 웹툰 신의 탑을 이제 게임으로 정주행!\n지금 바로 사전 등록하고 최신 정보와 다양한 이벤트를 만나보세요!\n\n#기안84\nIG - @khmnim1513\nBiz E-Mail - backho2301@gmail.com\n\n#박재정 #댓글이벤트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zc3l5d_J46Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zc3l5d_J46Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zc3l5d_J46Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zc3l5d_J46Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zc3l5d_J46Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "인생84",
+        "tags": [
+          "기안84",
+          "기안팔사",
+          "기안",
+          "김희민",
+          "희민",
+          "웹툰작가",
+          "복학왕",
+          "패션왕",
+          "나혼자산다",
+          "침착맨",
+          "말년을건강하게",
+          "이말년",
+          "주호민",
+          "엠드로메다",
+          "박재정",
+          "워크샵",
+          "주식회사기안84",
+          "세미나",
+          "양평",
+          "펜션",
+          "헤어지자말해요"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "주식회사 기안84 워크샵",
+          "description": "2023년 넷마블 기대작 『신의 탑: 새로운 세계』 \n👉 지금 사전등록: https://ntiny.link/TOG84\n인기 웹툰 신의 탑을 이제 게임으로 정주행!\n지금 바로 사전 등록하고 최신 정보와 다양한 이벤트를 만나보세요!\n\n#기안84\nIG - @khmnim1513\nBiz E-Mail - backho2301@gmail.com\n\n#박재정 #댓글이벤트"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
